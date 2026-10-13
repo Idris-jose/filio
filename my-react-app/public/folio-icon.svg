@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" shape-rendering="crispEdges">
+  <!-- Retro Pixel Folder Icon -->
+  <!-- Shadow -->
+  <rect x="5" y="27" width="24" height="2" fill="#000000" opacity="0.3" />
+  
+  <!-- Back Tab & Papers -->
+  <rect x="5" y="8" width="8" height="4" fill="#000000" />
+  <rect x="6" y="9" width="6" height="3" fill="#D97706" />
+  
+  <!-- Sheets behind -->
+  <rect x="13" y="6" width="13" height="6" fill="#000000" />
+  <rect x="14" y="7" width="11" height="5" fill="#FFFDF8" />
+  <rect x="16" y="9" width="7" height="1" fill="#94A3B8" />
+
+  <!-- Main Folder Body Outline -->
+  <rect x="3" y="11" width="26" height="15" fill="#000000" />
+  
+  <!-- Folder Body Fill -->
+  <rect x="4" y="12" width="24" height="13" fill="#F59E0B" />
+  
+  <!-- Folder Highlight -->
+  <rect x="4" y="12" width="24" height="2" fill="#FDE68A" />
+  
+  <!-- Folder Bottom Shadow -->
+  <rect x="4" y="23" width="24" height="2" fill="#B45309" />
+</svg>
